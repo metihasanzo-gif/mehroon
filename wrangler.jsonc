@@ -5,7 +5,5 @@
   "compatibility_date": "2026-04-29",
   "vars": {
     "TARGET_DOMAIN": "http://vercel.parsashonam.sbs:2096"
-// wrangler.jsonc
-"name": "mehroon",
   }
 }
