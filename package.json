@@ -1,0 +1,15 @@
+{
+  "name": "cloudflare-xhttp-relay",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers XHTTP relay for Xray/V2Ray",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
