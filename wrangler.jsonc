@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cloudflare-xhttp-relay",
+  "name": "mehroon",
   "main": "src/index.js",
   "compatibility_date": "2026-04-29",
   "vars": {
