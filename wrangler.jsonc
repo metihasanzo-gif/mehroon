@@ -4,6 +4,6 @@
   "main": "src/index.js",
   "compatibility_date": "2026-04-29",
   "vars": {
-    "TARGET_DOMAIN": "http://vercel.parsashonam.sbs:2096"
+    "TARGET_DOMAIN": "https://vercel.parsashonam.sbs:2096"
   }
 }
